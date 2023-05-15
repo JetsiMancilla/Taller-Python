@@ -13,7 +13,9 @@ cómo hacerlo.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Esta licencia otorga tres condiciones principales: **1. BY (Atribución)**: Respetar la autoría del contenido. **2. NC (No comercial)**:No se puede cobrar por la distribución y uso del contenido. **3. SA (Compartir)**: Se puede distribuir siempre y cuando sea bajo una licencia similar. 
+Se originó en 2001 por Lawrence Lessing en la Universidad de Stanford.
+
 
 ## Pregunta 2
 
@@ -21,7 +23,9 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+En generar conocimiento que se encuentre accesible o disponible para la comunidad científica, con la finalidad de que todos los trabajos generados sean reproducibles. 
+Se basa en el libre acceso a la información, colaboración y participación de la comunidad científica. 
+
 
 ## Pregunta 3
 
@@ -30,7 +34,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Sí, GitHub es un ejemplo de un repositorio que está en la nube y permite realizar colaboraciones. 
 
 ## Pregunta 4
 
@@ -38,7 +42,8 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Sí, Netflix hace uso de GitHub como una plataforma para compartir código y colaborar en el desarrollo de sus proyectos de software.
+El repositorio de GitHub de Netflix se encuentra en la siguiente dirección: https://github.com/Netflix.
 
 ## Pregunta 5
 
@@ -47,7 +52,8 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+AlphaFold es una técnica de inteligencia artificial (IA), utiliza redes neuronales que permite predecir la estructura tridimensional de proteínas a partir de una secuencia de aminoácidos. 
+Si utiliza un algoritmo de aprendizaje automático fue entrenado para una tarea en específico; sin embargo, al estar disponible su código pueden cambiarse y mejorar los algoritmos. 
 
 ## Pregunta 6
 
